@@ -1,5 +1,3 @@
-# fac-coding-challenges
-
 ## FAC Pre-apprenticeship Coding Challenges
 
 A collection of coding challenges created over the 12 week Founders and Coders pre-apprenticeship 2021
